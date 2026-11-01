@@ -1,0 +1,28 @@
+SITE INSTITUCIONAL — 69.714.505 RAQUEL DE SOUZA BRITO
+
+Arquivos:
+- index.html: página inicial
+- sobre.html: página institucional
+- politica-privacidade.html: política de privacidade
+- termos-de-uso.html: termos de uso
+- assets/css/style.css: estilos personalizados
+- assets/js/main.js: scripts
+- assets/img/: imagens enviadas
+
+Como visualizar:
+1. Extraia o ZIP mantendo a estrutura de pastas.
+2. Abra index.html no navegador.
+3. Para publicar, envie todos os arquivos e pastas para a hospedagem, mantendo a estrutura.
+
+Dependências externas:
+- Bootstrap 5.3.3 (CDN)
+- Bootstrap Icons 1.11.3 (CDN)
+- Google Fonts (CDN)
+
+Antes de anunciar no Google Ads:
+- Confirme se o endereço, telefone, e-mail, CNPJ e nome empresarial estão corretos e atualizados.
+- Confirme se o telefone informado aceita WhatsApp.
+- Revise a Política de Privacidade para incluir as ferramentas reais de publicidade/medição instaladas (Google tag, conversões, Analytics, cookies etc.) e configure consentimento quando necessário.
+- Confirme que os serviços apresentados são realmente oferecidos e que as imagens podem ser usadas comercialmente.
+- Adicione informações reais de preços, horários, credenciais e agendamento apenas se aplicáveis; não foram inventadas neste modelo.
+- O site não garante aprovação no Google Ads. A aprovação depende também da conta, anúncios, destino, práticas comerciais e políticas vigentes.
