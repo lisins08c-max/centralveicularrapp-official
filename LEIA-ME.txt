@@ -1,0 +1,22 @@
+SITE INSTITUCIONAL – 69.714.505 RAQUEL DE SOUZA BRITO
+
+ARQUIVOS
+- index.html: página inicial
+- sobre.html: página Sobre
+- privacidade.html: Política de Privacidade
+- termos.html: Termos de Uso
+- styles.css: estilos personalizados
+- assets/: imagens fornecidas
+
+COMO VISUALIZAR
+1. Extraia o ZIP mantendo a estrutura de pastas.
+2. Abra index.html no navegador.
+3. Para publicar, envie todos os arquivos e a pasta assets para a hospedagem, mantendo os nomes e caminhos.
+
+OBSERVAÇÕES IMPORTANTES
+- O site usa Bootstrap 5.3.3 e Bootstrap Icons por CDN; a hospedagem/navegador precisa de internet para carregar esses recursos.
+- O botão de WhatsApp usa o número informado: 11 3781-9428.
+- Revise a Política de Privacidade conforme as ferramentas realmente instaladas. Se usar Google Ads/Google tag, Analytics, remarketing, formulário, pixel ou cookies não essenciais, configure consentimento e atualize o texto para descrever precisamente o tratamento.
+- Confirme endereço, contatos, serviços, valores e informações cadastrais antes de publicar.
+- As imagens enviadas foram incluídas em assets. Verifique se você possui os direitos/licenças necessários para uso comercial.
+- O conteúdo é um modelo informativo e não substitui revisão jurídica ou de conformidade com a LGPD e regras de publicidade.
